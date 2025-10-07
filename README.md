@@ -18,7 +18,9 @@ Each letter is replaced by the letter 13 positions ahead in the alphabet.
 Applying ROT13 twice returns the original text.
 
 ## Example:
+
 Hello → Uryyb
+
 Uryyb → Hello
 
 ## 🖥️ Usage
